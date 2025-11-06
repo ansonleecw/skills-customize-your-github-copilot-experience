@@ -59,5 +59,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Read, analyze, and manipulate text files using Python (strings, file I/O, and text parsing).",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2025-11-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
